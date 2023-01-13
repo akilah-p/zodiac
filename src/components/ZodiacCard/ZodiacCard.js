@@ -1,4 +1,3 @@
-/* eslint-disable prettier/prettier */
 import './zodiacCard.css';
 import '../../data.js';
 
@@ -13,4 +12,4 @@ export default function ZodiacCard({ name, dates, symbol }) {
   );
 }
 
-// 
+//
